@@ -2,4 +2,4 @@
 
 Created a navbar component using react
 
-https://samatar-navbar.netlify.app
+https://samatar-react-navbar.netlify.app
